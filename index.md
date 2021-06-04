@@ -1,6 +1,7 @@
 ## Welcome to Dylan Ingram's GitHub Page
 ![download](https://user-images.githubusercontent.com/54293179/120866421-e7694b80-c55d-11eb-9ff5-ac0a5a0a8fc7.jpeg)
 
+[My page](https://dingram91.github.io/index.html)
 
 You can use the [editor on GitHub](https://github.com/Dingram91/dingram91.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
